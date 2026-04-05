@@ -1,0 +1,2 @@
+[2026-04-05 00:45:10] ERROR in fetch_products: URLError — <urlopen error Temporary failure in name resolution>
+[2026-04-05 00:45:11] ERROR in lookup_product: HTTPError — 404 Not Found
